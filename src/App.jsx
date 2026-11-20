@@ -7,14 +7,14 @@ import heroImg from './assets/Mickael.png'
 /* ------------------------------------------------------------------ */
 
 const identity = {
-  prenom: 'Mickaël',
-  nom: 'Andrianiaina',
+  prenom: 'MATOKY ANDRIANIAINA',
+  nom: 'Herrio Mickaël',
   nomComplet: 'MATOKY ANDRIANIAINA Herrio Mickaël',
   titre: 'Développeur logiciel polyvalent',
   phone: '+261 34 56 363 34',
   phoneHref: '+261345636334',
   email: 'mickaelandrianiaina2001@gmail.com',
-  adresse: 'II A41 Ambatomainty',
+  adresse: 'LOT II A41 Ambatomainty',
   facebook: 'Mickael Andrianiaina',
   naissance: '27 novembre 2001, Avaradoha',
   age: '24 ans',
